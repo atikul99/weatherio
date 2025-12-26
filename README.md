@@ -24,6 +24,7 @@ git clone https://github.com/atikul99/weatherio.git
 cd weatherio
 npm install
 npm run dev
+```
 
 ## Live Demo
 
