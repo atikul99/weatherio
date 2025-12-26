@@ -25,6 +25,11 @@ cd weatherio
 npm install
 npm run dev
 ```
+Create `.env` file:
+
+```bash
+VITE_APP_ID = your_api_key
+```
 
 ## Live Demo
 
